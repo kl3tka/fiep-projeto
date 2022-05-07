@@ -61,6 +61,7 @@
   <a href="cadastro.php"><input type="button" value="Cadastrar"></a>
   <a href="listar_usuarios.php"><input type="button" value="Usuários do Sistema" title="Usuários do sistema"></a>
   <a href="status_data_center.php"><input type="button" value="Status Data Center" title="Status Data Center"></a>
+  <a href="relatorio.html"><input type="button" value="Relatórios" title="Relatórios"></a>
   <a style="padding-left:400px;"href="login.php"><input type="button" value="Login" title="Login"></a>
   </center>
   <hr>
